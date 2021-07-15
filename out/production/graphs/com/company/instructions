@@ -1,0 +1,13 @@
+Assignments 4,5,6. Graph algorithms
+
+Write classes ALGraph, GNode, GEdge, and implement the following graph algorithms using common data structures:
+BFS
+DFS
+Dijkstra's Algorithm
+Complete edge classification for directed graphs
+calculation of low for directed graphs
+Biconnected components, bridges, articulation points – undirected graphs
+max flow using augmentation algorithm from textbook
+
+Everybody must use the same layout and same names for the three classes mentioned above and their data members (fields).
+Please start working on this assignment now. There will be NO extension
